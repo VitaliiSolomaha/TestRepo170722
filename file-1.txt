@@ -1,6 +1,6 @@
 hello!
 test
-gitgit
+qwerty
 qwerty
 git git
 <<<<<<< HEAD
