@@ -1,0 +1,24 @@
+hello!
+test
+gitgit
+qwerty
+git git
+<<<<<<< HEAD
+PS D:\GeekBrains_Vit> git commit -m "file-1 change"
+[br3 61c21f2] file-1 change
+ 1 file changed, 14 insertions(+), 1 deletion(-)
+PS D:\GeekBrains_Vit> git checkout master
+Switched to branch 'master'
+PS D:\GeekBrains_Vit> add file-5.txt
+add : Имя "add" не распознано как имя командлета, функции, файла сценария или выполняемой программы. Проверьте правильность написания имени, а также наличие и правильность пути, после чего повторите попытку.
+строка:1 знак:1
++ add file-5.txt
++ ~~~
+    + CategoryInfo          : ObjectNotFound: (add:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+PS D:\GeekBrains_Vit> git add file-5.txt
+PS D:\GeekBrains_Vit> git commit -m "file-5 new"
+[master 3875d44] file-5 new
+ 1 file changed, 14 insertions(+)
+ create mode 100644 file-5.txt

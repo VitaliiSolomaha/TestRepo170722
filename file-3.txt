@@ -1,0 +1,16 @@
+qwertyuio
+* commit ea80f8af3b9befd0e047c606efb18b961b7efdda
+| Author: Vitalii Solomaha <vitalii.solomaha@gmail.com>
+| Date:   Sun Jul 10 20:17:00 2022 +0300
+|
+|     all changes
+|
+* commit d12eb7261f4741383722ae1a7f565a7e6386a936
+| Author: Vitalii Solomaha <vitalii.solomaha@gmail.com>
+| Date:   Sun Jul 10 19:50:17 2022 +0300
+|
+|     change file
+|
+* commit e259b38aa6971b42f3341ca0378d82dcbbc267be
+  Author: Vitalii Solomaha <vitalii.solomaha@gmail.com>
+  Date:   Sun Jul 10 18:11:33 2022 +0300
